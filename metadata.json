@@ -1,0 +1,9 @@
+{
+  "name": "J.A.R.V.I.S. HUD System",
+  "description": "A futuristic AI companion interface inspired by Tony Stark's JARVIS, featuring real-time voice, vision, mapping, and tactical data analysis powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
